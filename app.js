@@ -38,7 +38,7 @@ igual que 18, exiba um alerta com a mensagem "Pode tirar a habilitação!".
 
 if(idadeUser >= 18){
     alert("Pode tirar habilitação!");
-}
+} 
 
 
 
